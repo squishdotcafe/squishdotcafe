@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @squishdotcafe.
-- 👀 I’m interested in web development and old Roblox. As such, I made Squish Town.
+- 👀 I’m interested in web development and old Roblox. As such, I made Squish Town (https://www.squish-town.xyz).
 - 🌱 I’m currently learning the Laravel framework and deepening my knowledge of PHP.
 - 💞️ I’m looking to collaborate on: nothing at the moment. I am fairly busy.
 - 📫 How to reach me: @squish.2 on Discord, @TownOfSquish on X.
