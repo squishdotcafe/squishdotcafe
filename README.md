@@ -12,7 +12,6 @@ I know:
 - Three.js (i hate it)
 - Node.js (barely)
 - Typescript (like 0.0001%)
-- 
 
 # Websites I run:
 - https://www.squish-town.xyz - Squish Town - the FREE online physics playground!
