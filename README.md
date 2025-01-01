@@ -16,3 +16,9 @@ I know:
 # Websites I run:
 - https://www.squish-town.xyz - Squish Town - the FREE online physics playground!
 - https://querysquish.com - a free, trackerless search engine for all.
+
+# Stuff I use:
+- Visual Studio Code
+- PHP-CS or whatever it's calles
+- Copilot for autocompletions and autocorrect since im lazy
+- Either Arch Linux or a random Debian distro, I have a few old computers laying around.
