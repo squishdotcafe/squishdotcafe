@@ -19,6 +19,8 @@ I know:
 
 # Stuff I use:
 - Visual Studio Code
-- PHP-CS or whatever it's calles
+- PHP-CS for formatting or whatever it's called
 - Copilot for autocompletions and autocorrect since im lazy
 - Either Arch Linux or a random Debian distro, I have a few old computers laying around.
+
+yell at me all u want abt the copilot part, im not a skid its just cus im lazy
