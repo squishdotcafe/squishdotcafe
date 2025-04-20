@@ -17,6 +17,6 @@ my websites:
 - https://QuerySquish.com/ - a free, trackerless search engine for all.
 
 my games:
-explorer: a simple space exploration game.
+- `explorer: a space adventure`
 
 thats all bye bye 😉
