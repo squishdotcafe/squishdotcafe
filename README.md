@@ -6,9 +6,9 @@ i know:
 - css
 - js
 - php
+- c
 - c#
-- ts (learning)
-- node.js (learning)
+- c++ sucks
 
 not for hire you dont want my awful work 😉
 
@@ -18,5 +18,8 @@ my websites:
 
 my games:
 - `explorer: a space adventure`
+
+other projects:
+- `SquishDOS` - 32 bit OS, completely from scratch (not actually as hard as it sounds tbh)
 
 thats all bye bye 😉
