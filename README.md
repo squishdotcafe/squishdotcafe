@@ -17,9 +17,10 @@ my websites:
 - https://QuerySquish.com/ - a free, trackerless search engine for all.
 
 my games:
-- `explorer: a space adventure`
+- ~~`explorer: a space adventure`~~
+- yeah i dont do much anymore smh
 
 other projects:
-- `SquishDOS` - 32 bit OS, completely from scratch (not actually as hard as it sounds tbh)
+- ~~`SquishDOS` - 32 bit OS, completely from scratch (not actually as hard as it sounds tbh)~~
 
 thats all bye bye 😉
